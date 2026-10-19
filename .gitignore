@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+mlruns/
+.pytest_cache/
+artifacts/*.joblib
+artifacts/model_metadata.json
